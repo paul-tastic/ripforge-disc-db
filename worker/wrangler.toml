@@ -1,0 +1,7 @@
+name = "ripforge-disc-db"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+# The GITHUB_TOKEN secret must be set via:
+# wrangler secret put GITHUB_TOKEN
+# Use a GitHub Personal Access Token with 'repo' scope
